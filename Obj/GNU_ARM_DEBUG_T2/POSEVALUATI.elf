@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG_T2/POSEVALUATI.axf  :
+section             size      addr
+.text              60856      4096
+.rodata             8396     64952
+.data               2604   2097152
+.bss                1372   2099756
+.ARM.attributes       16         0
+.comment              35         0
+.debug_abbrev      19958         0
+.debug_info       124450         0
+.debug_line        23843         0
+.debug_frame        6348         0
+.debug_pubnames     4360         0
+.debug_aranges      2016         0
+.debug_str         18449         0
+.debug_loc         35490         0
+.debug_ranges        832         0
+Total             309025
+
+
